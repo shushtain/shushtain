@@ -1,16 +1,17 @@
-## Hi there 👋
+# I Never Thought I Would Make This Video...
 
-<!--
-**shushtain/shushtain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## NOT CLICKBATE
 
-Here are some ideas to get you started:
+- [Kobza](https://github.com/shushtain/kobza), Open Source English Course
+- [pyghtml](https://github.com/shushtain/pyghtml), Python-Generatable HTML
+- [ColSON](https://github.com/shushtain/colson-vscode), because PySON was taken
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I Tried Barbie's Diet and Here's What Happened
+
+- I am a Human Rights activist who codes for the joy of it.
+- I like organizing chaos and making things accessible.
+- I tend to create stuff I personally need or want.
+
+## My Team Blamed Me for Picking Python so I Carried Them
+
+- I worry I might need to learn programming.
