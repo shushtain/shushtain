@@ -14,4 +14,8 @@
 
 ### My Team Blamed Me for Picking Python so I Carried Them
 
-- I worry I might need to learn programming.
+I worry I might need to learn programming.
+
+### A Message to Someone With Suicidal Thoughts 
+
+Most people are just trying their best. I try to survive. Please be patient. Don't be like [rhodes-b](https://github.com/rhodes-b).
